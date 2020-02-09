@@ -35,7 +35,7 @@
       <div class="navbar-brand">
         <!-- TODO: Change link to repository homepage if needed -->
         <!-- TODO: Change which navbar-item is-active if needed -->
-        <a class="navbar-item is-active" href="index.html">
+        <a class="navbar-item" href="index.html">
           <span class="icon"><i class="fas fa-home"></i></span>
           <span>Home</span>
         </a>
@@ -55,39 +55,10 @@
             <span>Data</span>
           </a>
 		  
-		  <a class="navbar-item" href="#barchart.html" title="Bar Chart">
+		  <a class="navbar-item is-active" href="#barchart.html" title="Bar Chart">
             <span class="icon"><i class="fas fa-chart-bar"></i></span>
             <span>Bar Chart</span>
           </a>
-
-          <!-- TODO: Modify or remove dropdown -->
-          <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link">
-              Visualizations
-            </a>
-
-            <div class="navbar-dropdown">
-              <a class="navbar-item">
-                <span class="icon"><i class="fas fa-chart-line"></i></span>
-                <span>Line Chart</span>
-              </a>
-              <a class="navbar-item">
-                <span class="icon"><i class="fas fa-chart-area"></i></span>
-                <span>Area Chart</span>
-              </a>
-
-              <hr class="navbar-divider">
-
-              <a class="navbar-item">
-                <span class="icon"><i class="fas fa-chart-bar"></i></span>
-                <span>Bar Chart</span>
-              </a>
-              <a class="navbar-item">
-                <span class="icon"><i class="fas fa-chart-pie"></i></span>
-                <span>Pie Chart</span>
-              </a>
-            </div>
-          </div>
         </div>
 
         <!-- Right navbar items -->
@@ -125,51 +96,8 @@
 
         <p>You should not use this template unless you intend to customize it. Make it your own. Keep in mind this simple template is over 300 lines! You can see other examples of websites using Bulma at their showcase: <a href="https://bulma.io/expo/">bulma.io/expo/</a>.</p>
 
-        <h2 id="data">Data</h2>
 
-        <p>Here is the link to the dataset used for this assignment: <a href="https://data.sfgov.org/Transportation/Air-Traffic-Passenger-Statistics/rkru-6vcg">Air Traffic Passenger Statistics</a>.
-
-        <blockquote>
-          <p>
-            "This data is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: <a href="http://discovery.ac.uk/files/pdf/Licensing_Open_Data_A_Practical_Guide.pdf">http://discovery.ac.uk/</a>"
-          </p>
-          <cite>This briefing paper is in part based on a paper produced by the Strategic Content Alliance: Overview of the Openness of Licences to Provide Access to Materials, Data, Databases and Media.</cite>
-        </blockquote>
-
-        <p>Dataset consists of San Francisco International Airport monthly reports with data on number of passengers and some statistics by airlines.
-		Here is the list of columns:</p>
-        <ol>
-          <li><strong>Activity Period:</strong> Number. Shows the data of report in yyyy/mm format.</li>
-          <li><strong>Operating Airline:</strong> Text. Operating airline of a flight.</li>
-          <li><strong>Operating Airline IATA Code:</strong> Text. International Air Transport Association code (location identifier) of operating airline.</li>
-          <li><strong>Published Airline:</strong> Text. Published airline of a flight. (The airline that was supposed to operate the flight).</li>
-		  <li><strong>Published Airline IATA Code:</strong>Text. nternational Air Transport Association code (location identifier) of published airline.</li>
-		  <li><strong>GEO Summary:</strong> Text. International or Domestic flight.</li>
-		  <li><strong>GEO Region:</strong> Text. Geographic region of the flight.</li>
-		  <li><strong>Activity Type Code:</strong> Text. Deplaned, enplaned or transit flight code.</li>
-		  <li><strong>Price Category Code:</strong> Text. Low fare/other price code.</li>
-		  <li><strong>Terminal:</strong> Text. Terminal of arrival, departure or transit.</li>
-		  <li><strong>Boarding Area:</strong> Text. Boarding area of the flight.</li>
-		  <li><strong>Passenger Count:</strong> Number. Shows the number of passengers for a particular data.</li>
-        </ol>
-
-        <p>Not all columns were used for my visualizations.</p>
-
-        <h3 id="wrangling">Wrangling</h3>
-
-        <p>Perhaps you had to do some data wrangling to the original dataset to prepare it for visualization. This would be a great place to discuss some of that wrangling.
-
-        <pre>
-You can even put code into these pre blocks.
-  It will preserve whitespace.
-    That is helpful for formatted code.
-        </pre>
-
-        <p>You can alternatively embed a Gist if you want. There is an "embed" button on <a href="https://gist.github.com/octocat/6cad326836d38bd3a7ae">the Gist page</a> and results in something like this:</p>
-
-        <script src="https://gist.github.com/octocat/6cad326836d38bd3a7ae.js"></script>
-
-        <h2 id="visualizations">Visualizations</h2>
+        <h2 id="visualizations">Visualization</h2>
 
         <p>Ideally not everything would be on a single page like this example. Instead, you might want to put each section in its own webpage. You would need to carefully replicate the page template (with the header, navbar, and footer) and make the necessary updates. For example, you want the "About" navbar item to be considered active on an "About" web page.</p>
 
@@ -240,7 +168,6 @@ You can even put code into these pre blocks.
           <em>Thanks to Person Name for their suggestion to do something with the visualization.</em>
         </p>
 
-        <h2 id="grade">Grade</h2>
 
         <!-- TODO: Remove custom style if no longer needed -->
         <style>
@@ -249,40 +176,6 @@ You can even put code into these pre blocks.
             text-align: center;
           }
         </style>
-
-        <!-- TODO: Change or remove table -->
-        <!-- https://bulma.io/documentation/elements/table/ -->
-        <table class="table is-hoverable is-bordered grades">
-          <thead>
-            <tr>
-              <th>Letter</th>
-              <th>Done?</th>
-              <th>Description</th>
-            </tr>
-          </thead>
-
-          <tbody>
-
-            <tr>
-              <td>C</td>
-              <td><i class="has-text-success fas fa-check-circle"></i></td>
-              <td>3 visualization were prototyped using Tableau.</td>
-            </tr>
-
-            <tr>
-              <td>B</td>
-              <td><i class="has-text-success fas fa-check-circle"></i></td>
-              <td>First prototype was implemented in D3.</td>
-            </tr>
-
-            <tr>
-              <td>A</td>
-              <td><i class="has-text-success fas fa-check-circle"></i></td>
-              <td>Second prototype was implemented in D3.</td>
-            </tr>
-          </tbody>
-
-        </table>
 
         <h2 id="about">About</h2>
 

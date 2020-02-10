@@ -1,0 +1,1157 @@
+Activity Period,Operating Airline,Operating Airline IATA Code,Published Airline,Published Airline IATA Code,GEO Summary,GEO Region,Activity Type Code,Price Category Code,Terminal,Boarding Area,Passenger Count
+200507,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,5415
+200507,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,International,A,3678
+200507,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,2266
+200507,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,11388
+200507,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3953
+200507,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,1385
+200507,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,10
+200507,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,888
+200507,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,45
+200508,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,5712
+200508,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,International,A,1902
+200508,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,1902
+200508,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,676
+200508,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,11585
+200508,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,4059
+200508,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,1475
+200508,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,863
+200508,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,78
+200509,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,4412
+200509,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,International,A,3843
+200509,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,International,A,161
+200509,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,1504
+200509,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,483
+200509,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,8271
+200509,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3163
+200509,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,1264
+200509,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,10
+200509,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,759
+200509,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,96
+200510,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,5754
+200510,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,International,A,4159
+200510,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,International,A,793
+200510,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,2773
+200510,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,483
+200510,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,8271
+200510,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3354
+200510,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,1046
+200510,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,40
+200510,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,862
+200510,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,230
+200511,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,2911
+200511,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,International,A,3923
+200511,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,International,A,269
+200511,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,1253
+200511,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,7299
+200511,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3465
+200511,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,1411
+200511,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,609
+200511,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,158
+200512,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,2402
+200512,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,International,A,5903
+200512,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,International,A,147
+200512,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,1737
+200512,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,8913
+200512,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3498
+200512,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,1024
+200512,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,64
+200512,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,476
+200512,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,123
+200601,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,3316
+200601,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,International,A,4309
+200601,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,International,A,181
+200601,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,2265
+200601,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,422
+200601,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,7224
+200601,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3025
+200601,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,1163
+200601,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,38
+200601,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,716
+200601,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,164
+200602,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,3863
+200602,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,International,A,5023
+200602,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,International,A,219
+200602,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,2978
+200602,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,6691
+200602,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3385
+200602,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,1046
+200602,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,251
+200602,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,527
+200602,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,248
+200603,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,3870
+200603,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,International,A,6316
+200603,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,International,A,445
+200603,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,3589
+200603,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,9744
+200603,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3600
+200603,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,1079
+200603,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,346
+200603,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,582
+200603,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,381
+200604,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,2419
+200604,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,International,A,3079
+200604,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,International,A,120
+200604,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,2959
+200604,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5899
+200604,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2933
+200604,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,917
+200604,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,13
+200604,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,614
+200604,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,167
+200605,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 3,E,190
+200605,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,International,A,1620
+200605,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,3076
+200605,Ameriflight,A8,Ameriflight,A8,Domestic,US,Thru / Transit,Other,Other,Other,8
+200605,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,7204
+200605,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3526
+200605,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,923
+200605,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,5
+200605,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,613
+200605,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,235
+200606,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,International,A,4394
+200606,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,1824
+200606,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,9381
+200606,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3105
+200606,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,1044
+200606,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,25
+200606,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,448
+200606,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,220
+200607,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,4273
+200607,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,1389
+200607,BelAir Airlines,4T,BelAir Airlines,4T,International,Europe,Thru / Transit,Other,International,A,166
+200607,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,517
+200607,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,8848
+200607,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,4005
+200607,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,1223
+200607,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,52
+200607,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,662
+200607,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,168
+200608,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,4126
+200608,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,118
+200608,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,1899
+200608,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,495
+200608,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,8455
+200608,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3962
+200608,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,1398
+200608,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,60
+200608,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,555
+200608,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,119
+200609,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,4742
+200609,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,266
+200609,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,1883
+200609,BelAir Airlines,4T,BelAir Airlines,4T,International,Europe,Thru / Transit,Other,International,A,112
+200609,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,366
+200609,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,6244
+200609,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3062
+200609,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,953
+200609,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,9
+200609,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,366
+200609,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,216
+200610,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,1587
+200610,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,762
+200610,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,2540
+200610,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,378
+200610,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,6449
+200610,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3678
+200610,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,915
+200610,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,2
+200610,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,396
+200610,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,279
+200611,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,International,A,85
+200611,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,2577
+200611,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,945
+200611,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,1460
+200611,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,331
+200611,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5639
+200611,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,4133
+200611,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,1194
+200611,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,45
+200611,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,826
+200611,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,315
+200612,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,3011
+200612,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,1697
+200612,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,2230
+200612,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,391
+200612,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,6677
+200612,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3360
+200612,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,804
+200612,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,21
+200612,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,709
+200612,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,330
+200701,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,2260
+200701,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,1661
+200701,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,1460
+200701,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,421
+200701,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,7204
+200701,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,4247
+200701,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,1067
+200701,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,84
+200701,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,1052
+200701,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,150
+200702,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,2478
+200702,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,1284
+200702,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,1963
+200702,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,387
+200702,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,6623
+200702,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3706
+200702,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,938
+200702,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,63
+200702,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,893
+200702,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,197
+200703,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,4059
+200703,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,2131
+200703,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,2159
+200703,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,485
+200703,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,8295
+200703,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,4510
+200703,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,938
+200703,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,1183
+200703,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,299
+200704,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,3679
+200704,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,1608
+200704,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,1887
+200704,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,472
+200704,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,8058
+200704,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,4312
+200704,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,851
+200704,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,13
+200704,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,1082
+200704,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,237
+200705,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,3060
+200705,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,1979
+200705,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,2960
+200705,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,546
+200705,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,9343
+200705,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3506
+200705,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,861
+200705,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,50
+200705,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,953
+200705,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,275
+200706,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,5392
+200706,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,807
+200706,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,2182
+200706,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,490
+200706,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,8371
+200706,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3773
+200706,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,1045
+200706,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,5
+200706,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,696
+200706,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,350
+200707,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,4174
+200707,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,1340
+200707,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,2049
+200707,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,465
+200707,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,7948
+200707,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,4165
+200707,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,1165
+200707,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,1043
+200707,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,194
+200708,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,3802
+200708,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,1370
+200708,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,1872
+200708,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,525
+200708,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,8981
+200708,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,4559
+200708,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,951
+200708,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,1291
+200708,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,147
+200709,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,2182
+200709,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,649
+200709,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,2038
+200709,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,331
+200709,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5649
+200709,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3744
+200709,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,683
+200709,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,67
+200709,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,709
+200709,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,127
+200710,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,3506
+200710,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,126
+200710,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,2501
+200710,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,2
+200710,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,319
+200710,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5438
+200710,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3729
+200710,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,868
+200710,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,39
+200710,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,858
+200710,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,70
+200711,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,1690
+200711,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,385
+200711,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,205
+200711,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,4
+200711,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,282
+200711,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4795
+200711,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3208
+200711,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,694
+200711,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,1116
+200711,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,36
+200712,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,1816
+200712,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,460
+200712,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,1549
+200712,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,2
+200712,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,289
+200712,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4925
+200712,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3163
+200712,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,693
+200712,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,672
+200712,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,52
+200801,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,1482
+200801,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,253
+200801,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,1682
+200801,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,7
+200801,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,391
+200801,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,6693
+200801,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3123
+200801,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,952
+200801,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,274
+200801,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,393
+200801,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,72
+200802,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,2249
+200802,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,539
+200802,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,2327
+200802,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,1
+200802,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,411
+200802,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,7036
+200802,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3801
+200802,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,885
+200802,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,357
+200802,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,442
+200802,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,125
+200803,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,3261
+200803,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,565
+200803,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,2766
+200803,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,15
+200803,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,411
+200803,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,7024
+200803,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3642
+200803,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,547
+200803,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,377
+200803,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,865
+200803,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,110
+200804,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,3158
+200804,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,2435
+200804,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,2435
+200804,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,4
+200804,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,389
+200804,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,6645
+200804,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2773
+200804,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,312
+200804,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,639
+200804,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,194
+200805,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,3372
+200805,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,935
+200805,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,892
+200805,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,5
+200805,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,326
+200805,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5553
+200805,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3150
+200805,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,426
+200805,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,522
+200805,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,248
+200806,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,2554
+200806,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,160
+200806,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,992
+200806,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,10
+200806,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,261
+200806,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4960
+200806,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2759
+200806,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,564
+200806,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,126
+200806,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,248
+200806,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,143
+200807,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,5960
+200807,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,189
+200807,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,950
+200807,Northwest Airlines,NW,Northwest Airlines,NW,Domestic,US,Thru / Transit,Other,Terminal 1,C,598
+200807,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,7
+200807,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,275
+200807,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5228
+200807,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2956
+200807,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,1005
+200807,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,275
+200807,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,288
+200807,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,74
+200808,Alaska Airlines,AS,Alaska Airlines,AS,Domestic,US,Thru / Transit,Other,Terminal 1,B,5960
+200808,Alaska Airlines,AS,Alaska Airlines,AS,International,Canada,Thru / Transit,Other,Terminal 1,B,189
+200808,Alaska Airlines,AS,Alaska Airlines,AS,International,Mexico,Thru / Transit,Other,International,A,950
+200808,Northwest Airlines,NW,Northwest Airlines,NW,Domestic,US,Thru / Transit,Other,Terminal 1,C,337
+200808,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,10
+200808,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,265
+200808,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5042
+200808,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3287
+200808,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,648
+200808,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,301
+200808,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,517
+200808,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,26
+200809,Northwest Airlines,NW,Northwest Airlines,NW,Domestic,US,Thru / Transit,Other,Terminal 1,C,382
+200809,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,14
+200809,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,209
+200809,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,3976
+200809,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2477
+200809,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,621
+200809,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,363
+200809,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,74
+200810,Northwest Airlines,NW,Northwest Airlines,NW,Domestic,US,Thru / Transit,Other,Terminal 1,C,483
+200810,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,10
+200810,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,138
+200810,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4442
+200810,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2629
+200810,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,536
+200810,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,436
+200810,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,81
+200811,Northwest Airlines,NW,Northwest Airlines,NW,Domestic,US,Thru / Transit,Other,Terminal 1,C,518
+200811,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,10
+200811,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,188
+200811,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,3574
+200811,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2170
+200811,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,516
+200811,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,434
+200811,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,52
+200812,Japan Airlines,JL,Japan Airlines,JL,International,Asia,Thru / Transit,Other,International,A,284
+200812,Northwest Airlines,NW,Northwest Airlines,NW,Domestic,US,Thru / Transit,Other,Terminal 1,C,747
+200812,Northwest Airlines,NW,Northwest Airlines,NW,International,Asia,Thru / Transit,Other,International,A,108
+200812,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,197
+200812,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,3753
+200812,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2113
+200812,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,243
+200812,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,409
+200812,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,71
+200901,Northwest Airlines,NW,Northwest Airlines,NW,Domestic,US,Thru / Transit,Other,Terminal 1,C,1924
+200901,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,7
+200901,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,243
+200901,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4613
+200901,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2550
+200901,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,444
+200901,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,491
+200901,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,49
+200902,Northwest Airlines,NW,Northwest Airlines,NW,Domestic,US,Thru / Transit,Other,Terminal 1,C,2393
+200902,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,4
+200902,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,193
+200902,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,3854
+200902,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,1945
+200902,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,258
+200902,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,290
+200902,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,45
+200903,Northwest Airlines,NW,Northwest Airlines,NW,Domestic,US,Thru / Transit,Other,Terminal 1,C,2585
+200903,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,55
+200903,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,231
+200903,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4412
+200903,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2363
+200903,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,211
+200903,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,2
+200903,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,498
+200903,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,17
+200904,Northwest Airlines,NW,Northwest Airlines,NW,Domestic,US,Thru / Transit,Other,Terminal 1,C,914
+200904,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,14
+200904,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,288
+200904,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5477
+200904,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2283
+200904,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,256
+200904,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,36
+200904,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,945
+200904,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,40
+200905,Northwest Airlines,NW,Northwest Airlines,NW,Domestic,US,Thru / Transit,Other,Terminal 1,C,514
+200905,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,4
+200905,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,264
+200905,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4994
+200905,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,1995
+200905,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,345
+200905,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,90
+200905,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,795
+200905,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,108
+200906,Northwest Airlines,NW,Northwest Airlines,NW,Domestic,US,Thru / Transit,Other,Terminal 1,C,894
+200906,Northwest Airlines,NW,Northwest Airlines,NW,International,Asia,Thru / Transit,Other,International,A,2871
+200906,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,10
+200906,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,295
+200906,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5610
+200906,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,1783
+200906,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,352
+200906,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,53
+200906,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,487
+200906,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,160
+200907,Northwest Airlines,NW,Northwest Airlines,NW,Domestic,US,Thru / Transit,Other,Terminal 1,C,1485
+200907,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,46
+200907,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,264
+200907,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5009
+200907,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,1752
+200907,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,294
+200907,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,29
+200907,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,735
+200907,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,155
+200908,Northwest Airlines,NW,Northwest Airlines,NW,Domestic,US,Thru / Transit,Other,Terminal 1,C,537
+200908,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,26
+200908,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,263
+200908,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4979
+200908,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,1759
+200908,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,182
+200908,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,127
+200908,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,747
+200908,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,91
+200909,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,65
+200909,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,243
+200909,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4614
+200909,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,1602
+200909,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,247
+200909,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,94
+200909,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,541
+200909,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,114
+200910,Northwest Airlines,NW,Northwest Airlines,NW,Domestic,US,Thru / Transit,Other,Terminal 1,C,1332
+200910,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,79
+200910,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,267
+200910,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5070
+200910,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,1809
+200910,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,420
+200910,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,115
+200910,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,343
+200910,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,147
+200911,Northwest Airlines,NW,Northwest Airlines,NW,Domestic,US,Thru / Transit,Other,Terminal 1,C,986
+200911,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,88
+200911,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,224
+200911,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4253
+200911,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,1703
+200911,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,239
+200911,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,121
+200911,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,329
+200911,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,86
+200912,Northwest Airlines,NW,Northwest Airlines,NW,Domestic,US,Thru / Transit,Other,Terminal 1,C,1456
+200912,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,229
+200912,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,253
+200912,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4797
+200912,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,1933
+200912,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,364
+200912,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,92
+200912,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,338
+200912,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,65
+201001,Northwest Airlines,NW,Northwest Airlines,NW,Domestic,US,Thru / Transit,Other,Terminal 1,C,2037
+201001,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,221
+201001,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,297
+201001,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5630
+201001,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,1804
+201001,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,600
+201001,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,163
+201001,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,324
+201001,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,24
+201002,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,1096
+201002,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,64
+201002,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,270
+201002,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5124
+201002,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,1929
+201002,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,415
+201002,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,187
+201002,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,207
+201002,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,107
+201003,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,1448
+201003,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,168
+201003,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,366
+201003,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,6951
+201003,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2179
+201003,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,309
+201003,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,303
+201003,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,340
+201003,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,342
+201004,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,1092
+201004,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,95
+201004,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,361
+201004,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,6855
+201004,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2303
+201004,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,454
+201004,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,382
+201004,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,529
+201004,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,282
+201005,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,77
+201005,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,323
+201005,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,6130
+201005,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2554
+201005,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,257
+201005,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,311
+201005,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,404
+201005,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,303
+201006,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,124
+201006,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,421
+201006,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,7995
+201006,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3563
+201006,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,346
+201006,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,168
+201006,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,450
+201006,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,319
+201007,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,172
+201007,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,412
+201007,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,7824
+201007,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3060
+201007,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,736
+201007,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,215
+201007,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,493
+201007,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,221
+201008,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,118
+201008,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,402
+201008,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,7624
+201008,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3441
+201008,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,443
+201008,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,353
+201008,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,637
+201008,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,486
+201009,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,52
+201009,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,337
+201009,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,6400
+201009,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2675
+201009,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,677
+201009,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,147
+201009,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,504
+201009,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,258
+201010,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,40
+201010,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,372
+201010,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,7077
+201010,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2893
+201010,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,778
+201010,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,139
+201010,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,632
+201010,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,244
+201011,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,131
+201011,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,239
+201011,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4546
+201011,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2533
+201011,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,470
+201011,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,101
+201011,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,373
+201011,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,5
+201012,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,347
+201012,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,289
+201012,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5489
+201012,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2912
+201012,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,503
+201012,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,185
+201012,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,247
+201101,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,110
+201101,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,267
+201101,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5080
+201101,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,3392
+201101,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,776
+201101,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,14
+201101,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,523
+201102,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,119
+201102,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,249
+201102,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4741
+201102,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2526
+201102,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,402
+201102,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,141
+201102,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,348
+201103,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,310
+201103,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,313
+201103,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5954
+201103,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2369
+201103,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,306
+201103,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,417
+201103,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,215
+201104,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,178
+201104,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,256
+201104,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4855
+201104,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2193
+201104,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,574
+201104,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,158
+201104,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,448
+201105,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,104
+201105,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,320
+201105,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,6085
+201105,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2630
+201105,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,398
+201105,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,247
+201105,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,433
+201106,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,170
+201106,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,362
+201106,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,6872
+201106,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2618
+201106,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,491
+201106,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,129
+201106,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,454
+201107,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,253
+201107,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,364
+201107,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,6908
+201107,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2540
+201107,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,689
+201107,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,141
+201107,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,535
+201108,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,218
+201108,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,427
+201108,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,8111
+201108,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2786
+201108,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,349
+201108,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,212
+201108,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,694
+201109,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,21
+201109,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,252
+201109,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4788
+201109,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2372
+201109,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,513
+201109,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,157
+201109,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,460
+201110,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,85
+201110,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,269
+201110,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5094
+201110,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,2454
+201110,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,641
+201110,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,195
+201110,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,501
+201111,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,163
+201111,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,280
+201111,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5324
+201111,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,1553
+201111,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,338
+201111,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,183
+201111,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,101
+201112,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,110
+201112,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,307
+201112,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5821
+201112,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,1868
+201112,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,461
+201112,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,338
+201112,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,221
+201112,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,1
+201201,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,128
+201201,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,218
+201201,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4137
+201201,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,1772
+201201,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,465
+201201,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,255
+201201,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,25
+201202,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,129
+201202,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,252
+201202,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4800
+201202,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,1551
+201202,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,422
+201202,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,283
+201202,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,189
+201202,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,19
+201203,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,300
+201203,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,324
+201203,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,6159
+201203,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,1096
+201203,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,294
+201203,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,293
+201203,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,160
+201203,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Mexico,Thru / Transit,Other,International,G,12
+201204,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,127
+201204,Swissport USA,,Swissport USA,,International,Europe,Thru / Transit,Other,International,A,93
+201204,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,205
+201204,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,3909
+201204,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,616
+201204,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,589
+201204,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,78
+201204,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,849
+201205,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,103
+201205,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,171
+201205,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,3234
+201205,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,470
+201205,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,470
+201205,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,158
+201205,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,156
+201206,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,157
+201206,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,186
+201206,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,3539
+201206,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,418
+201206,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,399
+201206,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,87
+201206,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,330
+201207,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,141
+201207,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,174
+201207,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,3307
+201207,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,654
+201207,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,594
+201207,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,114
+201207,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,659
+201208,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,119
+201208,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,188
+201208,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,3568
+201208,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Asia,Thru / Transit,Other,International,G,1228
+201208,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Australia / Oceania,Thru / Transit,Other,International,G,507
+201208,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,107
+201208,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Europe,Thru / Transit,Other,International,G,436
+201209,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,35
+201209,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,587
+201209,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,11162
+201209,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,195
+201210,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,318
+201210,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,1134
+201210,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,2370
+201210,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,841
+201211,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,411
+201211,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,64
+201211,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,3018
+201211,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,International,Canada,Thru / Transit,Other,Terminal 3,F,39
+201212,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,444
+201212,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5283
+201301,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,236
+201301,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4483
+201302,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,244
+201302,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,2230
+201303,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,866
+201303,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,2191
+201303,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,3547
+201304,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,455
+201304,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4984
+201305,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,156
+201305,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,1727
+201306,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,512
+201306,United Airlines - Pre 07/01/2013,UA,United Airlines - Pre 07/01/2013,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,7318
+201306,XL Airways France,SE,XL Airways France,SE,International,Europe,Thru / Transit,Other,International,A,526
+201307,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,377
+201307,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4252
+201308,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,254
+201308,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,3788
+201309,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Thru / Transit,Other,Other,Other,3
+201309,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,236
+201309,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4072
+201310,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,62
+201310,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,15589
+201311,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,29
+201311,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,3575
+201312,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,27
+201312,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4265
+201401,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,64
+201401,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5447
+201402,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,13
+201402,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,3428
+201403,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,27
+201403,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,6043
+201404,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,10
+201404,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5479
+201405,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,13
+201405,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4294
+201406,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,31
+201406,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,5355
+201407,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,32
+201407,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,6965
+201408,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,30
+201408,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,20
+201408,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,305
+201408,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,613
+201408,United Airlines,UA,United Airlines,UA,International,Mexico,Thru / Transit,Other,International,G,40
+201409,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,22
+201409,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,19
+201409,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,179
+201409,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,193
+201410,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,27
+201410,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,32
+201410,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,110
+201410,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,256
+201410,United Airlines,UA,United Airlines,UA,International,Mexico,Thru / Transit,Other,International,G,16
+201411,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,26
+201411,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,11
+201411,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,65
+201411,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,215
+201411,United Airlines,UA,United Airlines,UA,International,Canada,Thru / Transit,Other,International,G,1
+201411,United Airlines,UA,United Airlines,UA,International,Mexico,Thru / Transit,Other,International,G,15
+201412,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,138
+201412,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,20
+201412,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,254
+201412,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,644
+201412,United Airlines,UA,United Airlines,UA,International,Mexico,Thru / Transit,Other,International,G,17
+201501,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,130
+201501,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,20
+201501,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,1
+201501,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,178
+201501,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,380
+201501,United Airlines,UA,United Airlines,UA,International,Asia,Thru / Transit,Other,International,G,263
+201501,United Airlines,UA,United Airlines,UA,International,Mexico,Thru / Transit,Other,International,G,16
+201502,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,41
+201502,SkyWest Airlines,OO,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,36
+201502,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,73
+201502,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,7
+201502,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,97
+201502,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,127
+201502,United Airlines,UA,United Airlines,UA,International,Mexico,Thru / Transit,Other,International,G,9
+201503,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,50
+201503,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,272
+201503,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,219
+201503,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,668
+201503,United Airlines,UA,United Airlines,UA,International,Mexico,Thru / Transit,Other,International,G,2
+201504,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,31
+201504,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,723
+201504,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,160
+201504,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,179
+201505,Compass Airlines,CP,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,70
+201505,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,40
+201505,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,23
+201505,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,151
+201505,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,187
+201505,United Airlines,UA,United Airlines,UA,International,Mexico,Thru / Transit,Other,International,G,11
+201506,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,721
+201506,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,37
+201506,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,262
+201506,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,103
+201506,United Airlines,UA,United Airlines,UA,International,Mexico,Thru / Transit,Other,International,G,6
+201507,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,1081
+201507,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,36
+201507,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,1
+201507,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,144
+201507,United Airlines,UA,United Airlines,UA,International,Canada,Thru / Transit,Other,International,G,10
+201507,United Airlines,UA,United Airlines,UA,International,Mexico,Thru / Transit,Other,International,G,11
+201508,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,378
+201508,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,44
+201508,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,131
+201508,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,175
+201508,United Airlines,UA,United Airlines,UA,International,Canada,Thru / Transit,Other,International,G,103
+201509,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,14
+201509,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,126
+201509,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,250
+201509,United Airlines,UA,United Airlines,UA,International,Canada,Thru / Transit,Other,International,G,98
+201510,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,68
+201510,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,27
+201510,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,123
+201510,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,110
+201511,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,7
+201511,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,180
+201511,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,387
+201512,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,193
+201512,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,46
+201512,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,128
+201512,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,43
+201601,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,146
+201601,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,39
+201601,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,2
+201601,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,701
+201602,Compass Airlines,CP,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,43
+201602,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,22
+201602,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,31
+201602,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,16
+201603,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,29
+201603,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,169
+201603,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,114
+201603,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,39
+201604,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,32
+201604,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,17
+201604,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,84
+201604,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,60
+201604,United Airlines,UA,United Airlines,UA,International,Mexico,Thru / Transit,Other,International,G,2
+201605,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,19
+201605,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,55
+201605,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,76
+201605,United Airlines,UA,United Airlines,UA,International,Asia,Thru / Transit,Other,International,G,253
+201606,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,57
+201606,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,62
+201606,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,75
+201606,United Airlines,UA,United Airlines,UA,International,Canada,Thru / Transit,Other,International,G,1
+201607,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,44
+201607,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,23
+201607,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,252
+201607,United Airlines,UA,United Airlines,UA,International,Canada,Thru / Transit,Other,International,G,1
+201608,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,154
+201608,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,29
+201608,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,851
+201608,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,184
+201608,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,394
+201609,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,16
+201609,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,980
+201609,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,67
+201609,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,34
+201610,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,33
+201610,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,1
+201610,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,50
+201610,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,21
+201610,United Airlines,UA,United Airlines,UA,International,Asia,Thru / Transit,Other,International,G,4
+201611,Compass Airlines,CP,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,36
+201611,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,21
+201611,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,1248
+201611,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,19
+201611,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,15
+201612,SkyWest Airlines,OO,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,57
+201612,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,54
+201612,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,470
+201612,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,6
+201612,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,15
+201701,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,56
+201701,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,1
+201701,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,4
+201701,United Airlines,UA,United Airlines,UA,International,Mexico,Thru / Transit,Other,International,G,1
+201702,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,24
+201702,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,6
+201702,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,45
+201703,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,62
+201703,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,203
+201703,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,71
+201703,United Airlines,UA,United Airlines,UA,International,Canada,Thru / Transit,Other,International,G,11
+201704,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,173
+201704,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,41
+201704,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,112
+201704,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,57
+201704,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,55
+201704,WestJet Airlines,WS,WestJet Airlines,WS,International,Canada,Thru / Transit,Other,International,G,137
+201705,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,274
+201705,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,124
+201705,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,21
+201705,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,1085
+201705,United Airlines,UA,United Airlines,UA,International,Asia,Thru / Transit,Other,International,G,251
+201706,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,139
+201706,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,460
+201706,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,16
+201706,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,13
+201707,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,117
+201707,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,1160
+201707,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,8
+201707,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,18
+201708,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,139
+201708,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,1734
+201708,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,5
+201708,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,29
+201709,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,94
+201709,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,239
+201709,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,4
+201709,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,150
+201709,United Airlines,UA,United Airlines,UA,International,Asia,Thru / Transit,Other,International,G,213
+201709,United Airlines,UA,United Airlines,UA,International,Canada,Thru / Transit,Other,International,G,54
+201710,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,122
+201710,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,239
+201710,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,1
+201710,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,94
+201711,SkyWest Airlines,OO,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,75
+201711,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,96
+201711,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,International,G,239
+201711,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,319
+201711,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,26
+201712,SkyWest Airlines,OO,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,38
+201712,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,87
+201712,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,30
+201712,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,34
+201801,SkyWest Airlines,OO,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,17
+201801,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,96
+201801,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,56
+201801,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,1009
+201802,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,105
+201802,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,41
+201802,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,278
+201803,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,93
+201803,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,43
+201803,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,790
+201804,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Thru / Transit,Other,International,A,11
+201804,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,94
+201804,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,271
+201804,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,971
+201805,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,A,169
+201805,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,776
+201805,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,236
+201805,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,774
+201805,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Thru / Transit,Other,International,A,134
+201805,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,84
+201805,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,12
+201805,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,9
+201806,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,261
+201806,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,A,182
+201806,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,1614
+201806,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,416
+201806,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,1461
+201806,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Thru / Transit,Other,International,A,466
+201806,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,83
+201806,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,235
+201806,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,402
+201806,United Airlines,UA,United Airlines,UA,International,Canada,Thru / Transit,Other,International,G,4
+201807,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,A,375
+201807,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2058
+201807,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,1380
+201807,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,2164
+201807,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Thru / Transit,Other,International,A,466
+201807,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,106
+201807,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,938
+201807,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,16
+201808,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,227
+201808,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2646
+201808,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,2884
+201808,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Thru / Transit,Other,International,A,470
+201808,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,102
+201808,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,23
+201808,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,368
+201809,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2287
+201809,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,249
+201809,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,2344
+201809,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Thru / Transit,Other,International,A,716
+201809,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,86
+201809,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,10
+201809,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,301
+201810,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2282
+201810,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,631
+201810,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,2204
+201810,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Thru / Transit,Other,International,A,491
+201810,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,106
+201810,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,22
+201810,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,379
+201811,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,293
+201811,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2052
+201811,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,1515
+201811,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Thru / Transit,Other,International,A,298
+201811,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,89
+201811,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,37
+201811,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,180
+201812,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2179
+201812,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,1682
+201812,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Thru / Transit,Other,International,A,421
+201812,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,59
+201812,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,2
+201812,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,99
+201812,United Airlines,UA,United Airlines,UA,International,Canada,Thru / Transit,Other,International,G,10
+201901,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,194
+201901,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,1328
+201901,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,1982
+201901,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Thru / Transit,Other,International,A,538
+201901,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,38
+201901,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,812
+201901,United Airlines,UA,United Airlines,UA,International,Asia,Thru / Transit,Other,International,G,211
+201901,United Airlines,UA,United Airlines,UA,International,Canada,Thru / Transit,Other,International,G,3
+201902,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,120
+201902,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,986
+201902,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,1336
+201902,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Thru / Transit,Other,International,A,270
+201902,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,8
+201902,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,490
+201903,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,1314
+201903,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,316
+201903,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,1336
+201903,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Thru / Transit,Other,International,A,323
+201903,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,81
+201903,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,314
+201904,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,A,207
+201904,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,1669
+201904,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,437
+201904,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,2050
+201904,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Thru / Transit,Other,International,A,368
+201904,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,95
+201904,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,15
+201904,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,8
+201905,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2148
+201905,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,452
+201905,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,1578
+201905,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Thru / Transit,Other,International,A,368
+201905,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,65
+201905,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,4
+201905,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,469
+201906,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2396
+201906,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,1129
+201906,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,1661
+201906,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Thru / Transit,Other,International,A,368
+201906,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,107
+201906,TAP Air Portugal,TP,TAP Air Portugal,TP,International,Europe,Thru / Transit,Other,International,G,102
+201906,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,4
+201906,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,1336
+201907,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,3332
+201907,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,842
+201907,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,2797
+201907,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Thru / Transit,Other,International,A,380
+201907,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,70
+201907,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,46
+201907,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,381
+201908,Delta Air Lines,DL,Delta Air Lines,DL,Domestic,US,Thru / Transit,Other,Terminal 1,C,194
+201908,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2865
+201908,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,1964
+201908,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,1700
+201908,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Thru / Transit,Other,International,A,532
+201908,Southwest Airlines,WN,Southwest Airlines,WN,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,455
+201908,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,88
+201908,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,146
+201908,United Airlines,UA,United Airlines,UA,International,Asia,Thru / Transit,Other,International,G,331
+201908,United Airlines,UA,United Airlines,UA,International,Canada,Thru / Transit,Other,International,G,46
+201909,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2767
+201909,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,732
+201909,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,2364
+201909,Hong Kong Airlines Limited,HX,Hong Kong Airlines Limited,HX,International,Asia,Thru / Transit,Other,International,A,566
+201909,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,E,2
+201909,United Airlines,UA,United Airlines,UA,Domestic,US,Thru / Transit,Other,Terminal 3,F,154
+201909,United Airlines,UA,United Airlines,UA,International,Canada,Thru / Transit,Other,International,G,7

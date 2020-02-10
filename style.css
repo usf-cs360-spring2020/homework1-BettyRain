@@ -1,0 +1,88 @@
+/*
+ * we use css to style our page and our svg elements
+ * the classes/ids defined here must match our d3 code
+ */
+
+body, textarea {
+  font-family: 'Comic Sans MS', sans-serif;
+  font-weight: 300;
+  font-size: 11pt;
+}
+
+.grid line {
+  stroke: lightgrey;
+  stroke-opacity: 0.7;
+  shape-rendering: crispEdges;
+}
+
+body {
+  margin: 5px;
+  padding: 0px;
+
+  /* see https://developer.mozilla.org/en-US/docs/Web/CSS/color_value */
+  background-color: whitesmoke;
+}
+
+textarea {
+  /* position the textarea on top of the svg */
+  font-family: 'Comic Sans MS', sans-serif;
+  position: fixed;
+  top: 5px;
+  left: 5px;
+
+  margin: 0px;
+  padding: 5px;
+
+  width: 400px;
+  height: 75px;
+
+  /* try changing this color in blockbuilder! */
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+textarea, svg {
+  font-family: 'Comic Sans MS', sans-serif;
+  border: 1px solid gainsboro;
+  border-radius: 10px;
+}
+
+svg {
+  /* bl.ocks.org defaults to 960px by 500px */
+  font-family: 'Comic Sans MS', sans-serif;
+  width: 950px;
+  height: 490px;
+
+  background-color: white;
+}
+
+/* svg elements are styled differently from html elements */
+
+rect.bar {
+  font-family: 'Comic Sans MS', sans-serif;
+  stroke: none;
+  fill: #83CAD8;
+}
+
+#x-axis text,
+#y-axis text {
+  font-family: 'Comic Sans MS', sans-serif;
+  font-size: 9pt;
+  fill: #888888;
+}
+
+#x-axis line {
+  font-family: 'Comic Sans MS', sans-serif;
+  /* tick marks */
+  fill: none;
+  stroke: none;
+}
+
+#x-axis path,
+#y-axis path,
+#y-axis line {
+  font-family: 'Comic Sans MS', sans-serif;
+  fill: none;
+
+  stroke: #bbbbbb;
+  stroke-width: 1px;
+}

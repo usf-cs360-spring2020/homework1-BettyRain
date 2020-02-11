@@ -9,7 +9,7 @@
 
     <!-- Load Bulma from CDN (consider saving it to repository instead) -->
     <!-- https://bulma.io/ -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.8.0/css/bulma.min.css">
 
     <!-- Load Font Awesome 5 (free) icons -->
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
@@ -19,7 +19,7 @@
 
   <!-- Page header -->
   <!-- https://bulma.io/documentation/layout/hero/ -->
-  <section class="hero is-primary is-bold">
+  <section class="hero is-dark is-bold">
     <div class="hero-body">
       <div class="container">
         <h1 class="title">Data Visualizations</h1>
@@ -31,13 +31,13 @@
 
   <!-- Page navigation -->
   <!-- https://bulma.io/documentation/components/navbar/ -->
-  <nav class="navbar is-light" role="navigation" aria-label="main navigation">
+  <nav class="navbar is-info" role="navigation" aria-label="main navigation">
     <div class="container">
       <div class="navbar-brand">
         <!-- TODO: Change link to repository homepage if needed -->
         <!-- TODO: Change which navbar-item is-active if needed -->
         <a class="navbar-item is-active" href="index.html">
-          <span class="icon"><i class="fas fa-home"></i></span>
+          <span class="icon"><i class="fas fa-ghost"></i></span>
           <span>Home</span>
         </a>
 
@@ -120,14 +120,14 @@
           <li><strong>Operating Airline:</strong> Text. Operating airline of a flight.</li>
           <li><strong>Operating Airline IATA Code:</strong> Text. International Air Transport Association code (location identifier) of operating airline.</li>
           <li><strong>Published Airline:</strong> Text. Published airline of a flight. (The airline that was supposed to operate the flight).</li>
-		  <li><strong>Published Airline IATA Code:</strong>Text. nternational Air Transport Association code (location identifier) of published airline.</li>
-		  <li><strong>GEO Summary:</strong> Text. International or Domestic flight.</li>
-		  <li><strong>GEO Region:</strong> Text. Geographic region of the flight.</li>
-		  <li><strong>Activity Type Code:</strong> Text. Deplaned, enplaned or transit flight code.</li>
-		  <li><strong>Price Category Code:</strong> Text. Low fare/other price code.</li>
-		  <li><strong>Terminal:</strong> Text. Terminal of arrival, departure or transit.</li>
-		  <li><strong>Boarding Area:</strong> Text. Boarding area of the flight.</li>
-		  <li><strong>Passenger Count:</strong> Number. Shows the number of passengers for a particular data.</li>
+		      <li><strong>Published Airline IATA Code:</strong>Text. nternational Air Transport Association code (location identifier) of published airline.</li>
+		      <li><strong>GEO Summary:</strong> Text. International or Domestic flight.</li>
+		      <li><strong>GEO Region:</strong> Text. Geographic region of the flight.</li>
+		      <li><strong>Activity Type Code:</strong> Text. Deplaned, enplaned or transit flight code.</li>
+		      <li><strong>Price Category Code:</strong> Text. Low fare/other price code.</li>
+		      <li><strong>Terminal:</strong> Text. Terminal of arrival, departure or transit.</li>
+		      <li><strong>Boarding Area:</strong> Text. Boarding area of the flight.</li>
+		      <li><strong>Passenger Count:</strong> Number. Shows the number of passengers for a particular data.</li>
         </ol>
 
         <p>Not all columns were used for my visualizations.</p>
@@ -148,55 +148,29 @@ You can even put code into these pre blocks.
 
         <h2 id="visualizations">Visualizations</h2>
 
-        <p>Ideally not everything would be on a single page like this example. Instead, you might want to put each section in its own webpage. You would need to carefully replicate the page template (with the header, navbar, and footer) and make the necessary updates. For example, you want the "About" navbar item to be considered active on an "About" web page.</p>
-
-        <p>For now this is just a demo. The buttons below do not go anywhere, but can be easily changed to link to different visualization pages.</p>
-
         <p class="buttons">
-          <a class="button is-large is-success" href="#">
-            <span class="icon is-medium">
-              <i class="fas fa-chart-line"></i>
-            </span>
-            <span>Line Chart</span>
-          </a>
 
-          <a class="button is-large is-primary" href="#">
-            <span class="icon is-medium">
-              <i class="fas fa-chart-area"></i>
-            </span>
-            <span>Area Chart</span>
-          </a>
-
-          <a class="button is-large is-info" href="#">
+        <a class="button is-large is-info" href="barchart.html">
             <span class="icon is-medium">
               <i class="fas fa-chart-bar"></i>
             </span>
             <span>Bar Chart</span>
           </a>
 
-          <a class="button is-large is-link" href="#">
+          <a class="button is-large is-success" href="linechart.html">
             <span class="icon is-medium">
-              <i class="fas fa-chart-pie"></i>
+              <i class="fas fa-chart-line"></i>
             </span>
-            <span>Pie Chart</span>
+            <span>Line Chart</span>
+          </a>
+
+          <a class="button is-large is-primary" href="areachart.html">
+            <span class="icon is-medium">
+              <i class="fas fa-chart-area"></i>
+            </span>
+            <span>Area Chart</span>
           </a>
         </p>
-
-        <!-- https://github.com/vega/vega-embed#basic-example -->
-        <p>It is possible to embed some visualizations directly here too. Here is <a href="https://github.com/vega/vega-embed#basic-example">an example</a> using Vega-Lite:</p>
-
-        <script src="https://cdn.jsdelivr.net/npm/vega@5.9.0"></script>
-        <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.0.2"></script>
-        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.2.1"></script>
-
-        <div id="vis"></div>
-
-        <script type="text/javascript">
-        var spec = "https://raw.githubusercontent.com/vega/vega/master/docs/examples/bar-chart.vg.json";
-        vegaEmbed('#vis', spec).then(function(result) {
-          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-        }).catch(console.error);
-        </script>
 
         <h4>Instructions</h4>
 

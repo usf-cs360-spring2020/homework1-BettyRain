@@ -18,7 +18,7 @@
 
   <script>
     // location of data file
-		//let csv = '//barchartdata.csv';
+		let csv = 'barchartdata.csv';
 
     // configuration of svg/plot area
 		let config = {
@@ -46,7 +46,7 @@
     svg.attr('height', config.svg.height);
 
     //get data
-    d3.csv("barchartdata.csv", convertRow).then(buildBars)
+    d3.csv(csv, convertRow).then(buildBars)
 
     // helper method to make translating easier
 		function translate(x, y) {
@@ -55,7 +55,6 @@
 
     // function to convert each row
     // we need only two columns for bar chart
-		// https://github.com/d3/d3-fetch/blob/master/README.md#csv
 		function convertRow(row, index) {
   		let out = {};
       out.values = []
@@ -72,18 +71,9 @@
         	out.values.num = parseInt(row[col]);
         	break;
         }
-
   	}
   		return out;
 		}
-
-
-    function mergeNames (arr) {
-    	return _.chain(arr).groupBy('region').mapValues(function (v) {
-        	return _.chain(v).pluck('num').flattenDeep();
-    	}).value();
-		}
-
     function buildBars(data) {
       let svg = d3.select("body").select("svg");
       console.assert(svg.size() == 1);
@@ -95,8 +85,6 @@
   			r[o.region].num += +o.num;
   			return r;
 			},{}));
-
-
 
   		let countMax = d3.max(merged);
 
@@ -111,7 +99,7 @@
     	top:    15,
    	 	right:  15,
     	bottom: 30,
-  	  left:  90
+  	  left:  85
   		};
 
       // now we can calculate how much space we have to plot
@@ -155,7 +143,7 @@
       let bars = plot.selectAll("rect")
    			.data(pairs)
 
-      //grid lines
+      //grid lines before bars
    		var gridlines = d3.axisLeft()
                      	.tickFormat("")
                      	.tickSize(-plotWidth)
@@ -163,22 +151,23 @@
 
    		svg.append("g")
       	.attr("class", "grid")
-      	.attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+      	.attr("transform", translate(margin.left,margin.top))
       	.call(gridlines);
 
+        //bars
   		svg.selectAll(".bar")
       	.data(pairs)
       	.enter().append("rect")
       	.attr("class", "bar")
-      	.attr("x", function(d) { return regionScale(d.region)+90; })
+      	.attr("x", function(d) { return regionScale(d.region)+88; })
       	.attr("width", regionScale.bandwidth())
-      	.attr("y", function(d) { return countScale(d.num)+14; })
+      	.attr("y", function(d) { return countScale(d.num)+15; })
       	.attr("height", function(d) { return plotHeight - countScale(d.num); });
 
         // text label for the y axis
       plot.append("text")
         .attr("transform", "rotate(-90)")
-        .attr("y", 5 - margin.left)
+        .attr("y", 10 - margin.left)
         .attr("x",0 - (plotHeight / 2))
         .attr("dy", "1em")
         .style("text-anchor", "middle")

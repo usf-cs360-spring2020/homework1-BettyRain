@@ -82,44 +82,36 @@
       <!-- Begin page content -->
       <div class="content">
         <h1 class="title">
-          <!-- TODO: Change page title -->
-          Page Title
+          AreaChart Prototype
         </h1>
         <p class="subtitle">
-          <!-- TODO: Change page subtitle -->
-          Page Subtitle
+          Purpose
         </p>
 
-        <p>This would be an excellent place to describe what this page is for, what to find in different sections, describe any motivation or theme behind your visualizations, and so on.</p>
-
-        <p>You should not use this template unless you intend to customize it. Make it your own. Keep in mind this simple template is over 300 lines! You can see other examples of websites using Bulma at their showcase: <a href="https://bulma.io/expo/">bulma.io/expo/</a>.</p>
+        <p>The purpose of this prototype is to visualize the trends of passenger amount of different countries.</p>
 
         <h3 id="wrangling">Wrangling</h3>
 
-        <p>Perhaps you had to do some data wrangling to the original dataset to prepare it for visualization. This would be a great place to discuss some of that wrangling.
-
+        <p>The data was filtered in Tableau. US was excluded from GEO Regions analysis. (It has more passengers data, so I excluded it to get only other countries plot.)
+        <p>Activity periods were grouped by year in Tableau.
 
         <h3 id="prototype">Tableau Prototype</h3>
 
         <img src="areachart.jpg" alt="AreaChart Prototype">
 
-        <p>Prototype description!!
+        <script type='text/javascript' src='https://us-west-2b.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 960px; height: 527px;'><object class='tableauViz' width='960' height='527' style='display:none;'><param name='host_url' value='https%3A%2F%2Fus-west-2b.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;usfcs360spring2020' /><param name='name' value='Homework1&#47;Dashboard3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
 
+        <p>Prototype was done using Tableau. The data used: "Passenger Number" (sum for each GEO Region group) (as y scale), "Activity period" in years (as x scale) and "GEO Region" as colors.
 
-        <h3 id="writeups">Writeups</h3>
-
-        <p>How to interpret your visualization, indicating how the data is encoded. For example, “passenger count is encoded by the length of the bar, so longer bars represent higher passenger count.”
-
-        <p>Any per-visualization data wrangling you performed on the original dataset, and how you wrangled the data (e.g. Tableau, Excel, using the website interface). Link to the wrangled data when possible.
-
-        <p>One conclusion you can make about the data using your visualization. The conclusion should ideally be something that a simple statistic could not replace. For example, “airline X has the highest passenger count over this time period” is a simple conclusion that will meet this requirement, but may not earn a plus-level letter grade.
+        <h3 id="analysis">Analysis</h3>
+        <p>From this visualization we can conclude that Asia has the most number of passengers coming to and from this airport. Second place is taken by Europe.</p>
+        <p>We also can notice some trends. For example, there was a rase in passenger amount in 2006 ant the next high increase started from 2014 and got to it's peak at 2018. From 2018 to 2019 we can see a big decrease of passengers.
 
         <h2 id="about">About</h2>
 
         <!-- Profile box -->
         <!-- https://bulma.io/documentation/layout/media-object/ -->
         <article class="media">
-          <!-- TODO: Replace with profile photo -->
           <figure class="media-left">
             <p class="image is-128x128"><img class="is-rounded" src="profile.png"></p>
           </figure>

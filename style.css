@@ -4,9 +4,9 @@
  */
 
 body, textarea {
-  font-family: 'Comic Sans MS', sans-serif;
+  font-family: 'Sans-Serif', sans-serif;
   font-weight: 300;
-  font-size: 11pt;
+  font-size: 10pt;
 }
 
 .grid line {
@@ -29,7 +29,7 @@ body {
 
 textarea {
   /* position the textarea on top of the svg */
-  font-family: 'Comic Sans MS', sans-serif;
+  font-family: 'Sans-Serif', sans-serif;
   position: fixed;
   top: 5px;
   left: 5px;
@@ -45,14 +45,14 @@ textarea {
 }
 
 textarea, svg {
-  font-family: 'Comic Sans MS', sans-serif;
+  font-family: 'Sans-Serif', sans-serif;
   border: 1px solid gainsboro;
   border-radius: 10px;
 }
 
 svg {
   /* bl.ocks.org defaults to 960px by 500px */
-  font-family: 'Comic Sans MS', sans-serif;
+  font-family: 'Sans-Serif', sans-serif;
   width: 950px;
   height: 490px;
 
@@ -62,20 +62,20 @@ svg {
 /* svg elements are styled differently from html elements */
 
 rect.bar {
-  font-family: 'Comic Sans MS', sans-serif;
+  font-family: 'Sans-Serif', sans-serif;
   stroke: none;
   fill: #83CAD8;
 }
 
 #x-axis text,
 #y-axis text {
-  font-family: 'Comic Sans MS', sans-serif;
+  font-family: 'Sans-Serif', sans-serif;
   font-size: 9pt;
   fill: #888888;
 }
 
 #x-axis line {
-  font-family: 'Comic Sans MS', sans-serif;
+  font-family: 'Sans-Serif', sans-serif;
   /* tick marks */
   fill: none;
   stroke: none;
@@ -84,7 +84,7 @@ rect.bar {
 #x-axis path,
 #y-axis path,
 #y-axis line {
-  font-family: 'Comic Sans MS', sans-serif;
+  font-family: 'Sans-Serif', sans-serif;
   fill: none;
 
   stroke: #bbbbbb;

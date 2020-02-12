@@ -130,6 +130,7 @@
         .ticks(5, "f")
         .tickFormat(d3.formatPrefix(".0", 1e6))
 
+
       let xGroup = plot.append("g").attr("id", "x-axis");
   		xGroup.call(xAxis);
   		xGroup.attr("transform", translate(0, plotHeight));
@@ -163,17 +164,17 @@
 
 
       //grid lines
-      /*
    		var gridlines = d3.axisLeft()
                      	.tickFormat("")
                      	.tickSize(-plotWidth)
-                     	.scale(countScale);
+                     	.scale(countScale)
+                      .ticks(5, "f");
 
    		svg.append("g")
       	.attr("class", "grid")
       	.attr("transform", translate(margin.left,margin.top))
         .attr("drawBorder", false)
-      	.call(gridlines);*/
+      	.call(gridlines);
 
     }
 

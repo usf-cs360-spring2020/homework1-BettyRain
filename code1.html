@@ -138,6 +138,8 @@
 
   		let xAxis = d3.axisBottom(regionScale);
   		let yAxis = d3.axisLeft(countScale);
+      yAxis
+        .tickFormat(d3.formatPrefix(".0", 1e3))
 
       let xGroup = plot.append("g").attr("id", "x-axis");
   		xGroup.call(xAxis);

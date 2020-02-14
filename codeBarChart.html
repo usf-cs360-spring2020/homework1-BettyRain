@@ -5,9 +5,15 @@
   <meta charset="utf-8">
   <link href="./style.css" rel="stylesheet">
   <script src="https://d3js.org/d3.v5.min.js"></script>
+  <link rel="stylesheet" href="https://jenil.github.io/bulmaswatch/nuclear/bulmaswatch.min.css">
+  <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
 </head>
 
 <body>
+
+
+
+
   <h2>Transit Countries Bar chart</h2>
 
 	<svg></svg>
@@ -159,7 +165,7 @@
       	.data(pairs)
       	.enter().append("rect")
       	.attr("class", "bar")
-      	.attr("x", function(d) { return regionScale(d.region)+88; })
+      	.attr("x", function(d) { return regionScale(d.region)+89; })
       	.attr("width", regionScale.bandwidth())
       	.attr("y", function(d) { return countScale(d.num)+15; })
       	.attr("height", function(d) { return plotHeight - countScale(d.num); });
@@ -167,7 +173,7 @@
         // text label for the y axis
       plot.append("text")
         .attr("transform", "rotate(-90)")
-        .attr("y", 10 - margin.left)
+        .attr("y", 7 - margin.left)
         .attr("x",0 - (plotHeight / 2))
         .attr("dy", "1em")
         .style("text-anchor", "middle")

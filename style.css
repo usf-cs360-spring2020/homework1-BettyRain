@@ -6,7 +6,7 @@
 body, textarea {
   font-family: 'Sans-Serif', sans-serif;
   font-weight: 300;
-  font-size: 10pt;
+/*  font-size: 10pt;*/
 }
 
 .grid line {
@@ -24,7 +24,7 @@ body {
   padding: 0px;
 
   /* see https://developer.mozilla.org/en-US/docs/Web/CSS/color_value */
-  background-color: whitesmoke;
+/*  background-color: whitesmoke;*/
 }
 
 textarea {
@@ -44,27 +44,34 @@ textarea {
   background-color: rgba(255, 255, 255, 0.8);
 }
 
-textarea, svg {
+textarea {
   font-family: 'Sans-Serif', sans-serif;
   border: 1px solid gainsboro;
   border-radius: 10px;
 }
 
-svg {
-  /* bl.ocks.org defaults to 960px by 500px */
-  font-family: 'Sans-Serif', sans-serif;
+
+#bar-chart-code {
   width: 950px;
   height: 490px;
 
   background-color: white;
 }
 
+#line-chart {
+  width: 950px;
+  height: 490px;
+
+  background-color: white;
+}
+
+
 /* svg elements are styled differently from html elements */
 
 rect.bar {
   font-family: 'Sans-Serif', sans-serif;
   stroke: none;
-  fill: #83CAD8;
+  fill: #faed27;
 }
 
 #x-axis text,

@@ -5,11 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="./style.css" rel="stylesheet">
     <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="linescript.js"></script>
     <title>Homework 1</title>
 
     <!-- Load Bulma from CDN (consider saving it to repository instead) -->
     <!-- https://bulma.io/ -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+<link rel="stylesheet" href="https://jenil.github.io/bulmaswatch/nuclear/bulmaswatch.min.css">
 
     <!-- Load Font Awesome 5 (free) icons -->
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
@@ -19,7 +20,7 @@
 
   <!-- Page header -->
   <!-- https://bulma.io/documentation/layout/hero/ -->
-  <section class="hero is-dark is-bold">
+  <section class="hero is-bold">
     <div class="hero-body">
       <div class="container">
         <h1 class="title">Homework 1</h1>
@@ -31,7 +32,7 @@
 
   <!-- Page navigation -->
   <!-- https://bulma.io/documentation/components/navbar/ -->
-  <nav class="navbar is-light" role="navigation" aria-label="main navigation">
+  <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
     <div class="container">
       <div class="navbar-brand">
         <a class="navbar-item" href="index.html">
@@ -100,7 +101,11 @@
 
         <h3 id="visualizations">Visualization</h2>
 
-        <iframe src="./codeLineChart.html" seamless width = "1000px" height = "650px"></iframe>
+          <h5>Passenger number by months</h5>
+          <svg id="line-chart"></svg>
+          <pre> Data acquired from <a href="//data.sfgov.org/Transportation/Air-Traffic-Passenger-Statistics/rkru-6vcg">data.sfgov.org/</a> on February 8, 2020.
+          <small>Elizaveta Ozerova</small>
+          </pre>
         <p> The JavaScript code for this visualization can be found <a href="https://github.com/usf-cs360-spring2020/homework1-BettyRain/blob/gh-pages/codeLineChart.html">here</a>.
 
         <div id="vis"></div>
@@ -137,12 +142,12 @@
               <div class="heading">Skills</div>
 
               <div class="tags">
-                <span class="tag">Java</span>
-                <span class="tag">Go</span>
-                <span class="tag">Python</span>
-                <span class="tag">JavaScript</span>
-                <span class="tag">HTML</span>
-                <span class="tag">CSS</span>
+                <span class="button is-primary is-outlined is-small is-rounded">Java</span>
+                <span class="button is-primary is-outlined is-small is-rounded">Go</span>
+                <span class="button is-primary is-outlined is-small is-rounded">Python</span>
+                <span class="button is-primary is-outlined is-small is-rounded">JavaScript</span>
+                <span class="button is-primary is-outlined is-small is-rounded">HTML</span>
+                <span class="button is-primary is-outlined is-small is-rounded">CSS</span>
               </div>
             </div>
           </div>

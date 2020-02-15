@@ -44,12 +44,12 @@ function convertRow(row, index) {
   for (let col in row) {
     switch (col) {
       case 'Activity Period':
-      out.date = parseRowDate(row[col]);
-      break;
+        out.date = parseRowDate(row[col]);
+        break;
 
       case 'Passenger Count':
-      out.num = parseInt(row[col]);
-      break;
+        out.num = parseInt(row[col]);
+        break;
     }
   }
   return out;
@@ -57,14 +57,17 @@ function convertRow(row, index) {
 
 
 function drawLine(inputData) {
-  var monthsNames = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+  var monthsNames = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 
   //count num of pas for each month (combine months)
   let monthly = Object.values(inputData.reduce((r, o) => {
-    r[o.date.getMonth()] = r[o.date.getMonth()] || {month: monthsNames[o.date.getMonth()], num : 0};
+    r[o.date.getMonth()] = r[o.date.getMonth()] || {
+      month: monthsNames[o.date.getMonth()],
+      num: 0
+    };
     r[o.date.getMonth()].num += +o.num;
     return r;
-  },{}));
+  }, {}));
 
   let nums = monthly.map(d => d.num);
 
@@ -79,10 +82,10 @@ function drawLine(inputData) {
   console.assert(svg.size() == 1);
 
   let margin = {
-  top:    25,
-  right:  15,
-  bottom: 30,
-  left:  110
+    top: 25,
+    right: 15,
+    bottom: 30,
+    left: 110
   };
 
   // now we can calculate how much space we have to plot
@@ -101,7 +104,7 @@ function drawLine(inputData) {
     .rangeRound([0, plotWidth])
 
   let plot = svg.append("g").attr("id", "plot");
-  plot.attr("transform", translate(margin.left,margin.top));
+  plot.attr("transform", translate(margin.left, margin.top));
 
   console.assert(plot.size() == 1);
 
@@ -123,23 +126,29 @@ function drawLine(inputData) {
   let pairs = Array.from(monthly);
 
   plot.append("path")
-  .datum(pairs)
-  .attr("fill", "none")
-  .attr("stroke", "#FFD700")
-  .attr("stroke-width", 2.5)
-  .attr("width", monthsScale.bandwidth())
-  .attr("height", function(d) { return plotHeight - countScale(d.num)})
-  .attr("d", d3.line()
-    .x(function(d) { return monthsScale(d.month) + 40})
-    .y(function(d) { return countScale(d.num)+5})
-    //.curve(d3.curveMonotoneX)
-  )
+    .datum(pairs)
+    .attr("fill", "none")
+    .attr("stroke", "#FFD700")
+    .attr("stroke-width", 2.5)
+    .attr("width", monthsScale.bandwidth())
+    .attr("height", function(d) {
+      return plotHeight - countScale(d.num)
+    })
+    .attr("d", d3.line()
+      .x(function(d) {
+        return monthsScale(d.month) + 40
+      })
+      .y(function(d) {
+        return countScale(d.num) + 5
+      })
+      //.curve(d3.curveMonotoneX)
+    )
 
   // text label for the y axis
   plot.append("text")
     .attr("transform", "rotate(-90)")
     .attr("y", 5 - margin.left)
-    .attr("x",0 - (plotHeight / 2))
+    .attr("x", 0 - (plotHeight / 2))
     .attr("dy", "1em")
     .style("text-anchor", "middle")
     .text("Passenger Number");
@@ -147,14 +156,14 @@ function drawLine(inputData) {
 
   //grid lines
   var gridlines = d3.axisLeft()
-                  .tickFormat("")
-                  .tickSize(-plotWidth)
-                  .scale(countScale)
-                  .ticks(5, "f");
+    .tickFormat("")
+    .tickSize(-plotWidth)
+    .scale(countScale)
+    .ticks(5, "f");
 
   svg.append("g")
     .attr("class", "grid")
-    .attr("transform", translate(margin.left,margin.top))
+    .attr("transform", translate(margin.left, margin.top))
     .attr("drawBorder", false)
     .call(gridlines);
 
@@ -162,5 +171,5 @@ function drawLine(inputData) {
 
 // helper method to make translating easier
 function translate(x, y) {
- return 'translate(' + x + ',' + y + ')';
+  return 'translate(' + x + ',' + y + ')';
 }
